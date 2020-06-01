@@ -2,9 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 
-
-#define FIREBASE_HOST "smart-home-fd884.firebaseio.com"
-#define FIREBASE_AUTH "lO86dLLjzGFuembsmXdWKgFS33sOIWfEtkrzrwCC"
+#define FIREBASE_HOST "XXXXXXXX"
+#define FIREBASE_AUTH "XXXXXXX"
 #define WIFI_SSID "PUTRA--2"
 #define WIFI_PASSWORD "putradua"
 
